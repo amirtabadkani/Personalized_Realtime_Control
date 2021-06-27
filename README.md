@@ -1,6 +1,9 @@
 # Personalized_Realtime_Control: A Proof of Concept to control adaptive facades
 Definition: A system with a high degree of freedom that an occupant in a shared work environment can control part of the adaptive elements of a non-conventional AF in real-time behavior
 
+CASE STUDY: An international published Patent was used for this research as a hypothetical case study. Detailed information of the patent can be accessed here:
+https://patents.google.com/patent/US20180216399A1/en?inventor=Seyed+Amir+Tabadkani
+
 ![image](https://user-images.githubusercontent.com/17779829/123534424-7550e480-d760-11eb-8bd7-ebd5ca3774d3.png)
 
 # Limitations of the Current Concept
@@ -11,3 +14,23 @@ With respect to the research methodology, since the workflow is genuinely a simu
 -	The methodology is only applicable on adaptive façade typologies that allow user interactions and decentralization mechanisms like foldable responsive facades. So, biomimetic or similar typologies should be excluded. 
 -	User behaviour and preferences are replaced with pre-calculated simulations and identified thresholds for each visual comfort metric, that in reality this is not the case and user behaviour might be subjected to many unexpected psychological or physiological aspects that should be sent in real-time manner by user interfaces. 
 -	It is true that occupancy profiles are generated stochastically to consider occupant’s presence/absence in the space for each time interval, but as the PRC algorithm is not aware of who will be present or absent in the next 20 minutes. Therefore, the generated 64 shading configurations through the PRC algorithm along with their implications on visual comfort performance are based on the assumption that all occupants will be present in the next time interval as the worst case scenario. However, in a real building with real time input from space and occupants using occupancy sensors and smart phones, you would have stronger control data, and you could have finer time steps than 20 minutes if computational power allows.
+
+#References
+Analysis of the impact of automatic shading control scenarios on occupant’s comfort and energy load (Applied Energy)
+https://www.sciencedirect.com/science/article/pii/S0306261921003883?via%3Dihub
+
+Design approaches and typologies of adaptive facades: A review (Automation in Construction)
+https://www.sciencedirect.com/science/article/pii/S092658052031030X?via%3Dihub
+
+A review of occupant-centric control strategies for adaptive facades (Automation in Construction)
+https://www.sciencedirect.com/science/article/pii/S092658052031044X?via%3Dihub
+
+A review of automatic control strategies based on simulations for adaptive facades (Building and Environment)
+https://www.sciencedirect.com/science/article/pii/S0360132320301591?via%3Dihub
+
+Innovative control approaches to assess energy implications of adaptive facades based on simulation using EnergyPlus (Solar Energy)
+https://www.sciencedirect.com/science/article/pii/S0038092X20305879?via%3Dihub
+
+And, the adaptive facade prototype itself (A Patent as a case study):
+Integrated parametric design of adaptive facades for user’s visual comfort (Automation in Construction)
+https://www.sciencedirect.com/science/article/pii/S0926580518308240?via%3Dihub
