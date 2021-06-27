@@ -42,3 +42,6 @@ https://www.sciencedirect.com/science/article/pii/S0038092X20305879?via%3Dihub
 
 Integrated parametric design of adaptive facades for user’s visual comfort (Automation in Construction)
 https://www.sciencedirect.com/science/article/pii/S0926580518308240?via%3Dihub
+
+For more information, please contact:
+stabadkani@deakin.edu.au
