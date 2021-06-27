@@ -6,7 +6,9 @@ CASE STUDY: An international published Patent was used for this research as a hy
 https://patents.google.com/patent/US20180216399A1/en?inventor=Seyed+Amir+Tabadkani
 
 The proposed control strategy facilitates an integrated algorithmic workflow by creating a live linkage between two different simulation interfaces to overcome the existing challenges as discussed, including: 
+
 (1) simulations using EnergyPlus and Ladybug-tools to cover the energy and comfort-related calculations, 
+
 (2) an offline simulation using Python programming language to program a personalized control.
 
 ![image](https://user-images.githubusercontent.com/17779829/123534424-7550e480-d760-11eb-8bd7-ebd5ca3774d3.png)
