@@ -31,6 +31,6 @@ https://www.sciencedirect.com/science/article/pii/S0360132320301591?via%3Dihub
 Innovative control approaches to assess energy implications of adaptive facades based on simulation using EnergyPlus (Solar Energy)
 https://www.sciencedirect.com/science/article/pii/S0038092X20305879?via%3Dihub
 
-And, the adaptive facade prototype itself (A Patent as a case study):
+And, the Patent:
 Integrated parametric design of adaptive facades for user’s visual comfort (Automation in Construction)
 https://www.sciencedirect.com/science/article/pii/S0926580518308240?via%3Dihub
