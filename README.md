@@ -1,4 +1,4 @@
-# Personalized_Realtime_Control: A Proof of Concept to control adaptive facades
+# Personalized_Realtime_Control (PRC): A Proof of Concept to control adaptive facades
 Definition: A system with a high degree of freedom that an occupant in a shared work environment can control part of the adaptive elements of a non-conventional AF in real-time behavior
 
 CASE STUDY: An international published Patent was used for this research as a hypothetical case study. Detailed information of the patent can be accessed here:
