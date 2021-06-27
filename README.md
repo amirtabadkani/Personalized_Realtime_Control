@@ -2,6 +2,7 @@
 Definition: A system with a high degree of freedom that an occupant in a shared work environment can control part of the adaptive elements of a non-conventional AF in real-time behavior
 
 CASE STUDY: An international published Patent was used for this research as a hypothetical case study. Detailed information of the patent can be accessed here:
+
 https://patents.google.com/patent/US20180216399A1/en?inventor=Seyed+Amir+Tabadkani
 
 The proposed control strategy facilitates an integrated algorithmic workflow by creating a live linkage between two different simulation interfaces to overcome the existing challenges as discussed, including: 
