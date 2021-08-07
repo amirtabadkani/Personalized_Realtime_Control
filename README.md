@@ -14,7 +14,7 @@ The proposed control strategy facilitates an integrated algorithmic workflow by 
 ![image](https://user-images.githubusercontent.com/17779829/123539302-637d3a80-d77c-11eb-8d6b-ef49eb098477.png)
 
 # Limitations of the Current Concept
-With respect to the research methodology, since the workflow is genuinely a simulation-driven approach, there are assumptions that influenced the results significantly:
+With respect to the research methodology, since the workflow is genuinely a simulation-driven approach, there are assumptions that influence the results significantly:
 -	From results, we could see there are times that discomfort glare can occur even if the façade section or modules are fully-closed. This finding is due to the existing gaps in the designed non-conventional AF prototype that does not cover the façade 100%. 
 -	Selected four shading positions from the original prototype resulted a limited range of view ratio to outdoors in which there is no view ration between 34% and 85% and caused further challenges for the PRC to find an optimum solution to satisfy user demands.
 -	The proposed control strategy depends on workstations that are fixed for users with specific view directions, while in reality view fields might change at any seconds. 
