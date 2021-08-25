@@ -28,6 +28,7 @@ With respect to the research methodology, since the workflow is genuinely a simu
 ![UI_PRC](https://user-images.githubusercontent.com/17779829/123538281-7e997b80-d777-11eb-8fe1-5558fd6fbc54.jpg)
 
 # References
+
 Daylight in Buildings and Visual Comfort Evaluation: the Advantages and Limitations (Journal of Daylighting)
 https://solarlits.com/jd/8-181
 
