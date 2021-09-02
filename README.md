@@ -19,7 +19,7 @@ With respect to the research methodology, since the workflow is genuinely a simu
 -	Selected four shading positions from the original prototype resulted a limited range of view ratio to outdoors in which there is no view ration between 34% and 85% and caused further challenges for the PRC to find an optimum solution to satisfy user demands.
 -	The proposed control strategy depends on workstations that are fixed for users with specific view directions, while in reality view fields might change at any seconds. 
 
-![image](https://user-images.githubusercontent.com/17779829/123539314-7728a100-d77c-11eb-9d63-df193758c89d.png)
+                             ![image](https://user-images.githubusercontent.com/17779829/123539314-7728a100-d77c-11eb-9d63-df193758c89d.png)
 
 -	The methodology is only applicable on adaptive façade typologies that allow user interactions and decentralization mechanisms like foldable responsive facades. So, biomimetic or similar typologies should be excluded. 
 -	User behaviour and preferences are replaced with pre-calculated simulations and identified thresholds for each visual comfort metric, that in reality this is not the case and user behaviour might be subjected to many unexpected psychological or physiological aspects that should be sent in real-time manner by user interfaces. 
