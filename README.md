@@ -29,9 +29,6 @@ With respect to the research methodology, since the workflow is genuinely a simu
 
 # References
 
-Daylight in Buildings and Visual Comfort Evaluation: the Advantages and Limitations (Journal of Daylighting)
-https://solarlits.com/jd/8-181
-
 Analysis of the impact of automatic shading control scenarios on occupant’s comfort and energy load (Applied Energy)
 https://www.sciencedirect.com/science/article/pii/S0306261921003883?via%3Dihub
 
