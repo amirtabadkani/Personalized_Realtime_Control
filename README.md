@@ -25,7 +25,7 @@ With respect to the research methodology, since the workflow is genuinely a simu
 -	User behaviour and preferences are replaced with pre-calculated simulations and identified thresholds for each visual comfort metric, that in reality this is not the case and user behaviour might be subjected to many unexpected psychological or physiological aspects that should be sent in real-time manner by user interfaces. 
 -	It is true that occupancy profiles are generated stochastically to consider occupant’s presence/absence in the space for each time interval, but as the PRC algorithm is not aware of who will be present or absent in the next 20 minutes. Therefore, the generated 64 shading configurations through the PRC algorithm along with their implications on visual comfort performance are based on the assumption that all occupants will be present in the next time interval as the worst case scenario. However, in a real building with real time input from space and occupants using occupancy sensors and smart phones, you would have stronger control data, and you could have finer time steps than 20 minutes if computational power allows.
 
-![UI_PRC_V2](https://user-images.githubusercontent.com/17779829/134999890-84d6d7a2-7f0e-4dc6-968c-c6e4bd2746cc.jpg)
+![UI_PRC_V2](https://user-images.githubusercontent.com/17779829/135000070-85f612a3-1984-4d23-84b0-856b3b717413.jpg)
 
 
 # References
