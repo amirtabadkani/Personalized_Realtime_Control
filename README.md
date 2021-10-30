@@ -11,7 +11,7 @@ The proposed control strategy facilitates an integrated algorithmic workflow by 
 
 (2) an offline simulation using Python programming language to program a personalized control.
 
-   ![image](https://user-images.githubusercontent.com/17779829/123539302-637d3a80-d77c-11eb-8d6b-ef49eb098477.png)
+![image](https://user-images.githubusercontent.com/17779829/123539302-637d3a80-d77c-11eb-8d6b-ef49eb098477.png)
 
 # Limitations of the Current Concept
 With respect to the research methodology, since the workflow is genuinely a simulation-driven approach, there are assumptions that influence the results significantly:
@@ -19,7 +19,7 @@ With respect to the research methodology, since the workflow is genuinely a simu
 -	The proposed façade prototype can react steplessly or in hundreds of positions; however, due to computational power limitation, only four shading positions are selected that resulted a limited range of view ratio to outdoors where there is no view ratio between 34% and 85% and caused further challenges for the PRC to find an optimum solution to satisfy user demands.
 - The proposed control strategy depends on a fixed furniture layouts and assume users with view directions towards the computer screens, thus in case of modifying the furniture design or placement in the space, simulations should be repeated for accurate personalization.
 
-----------------------------------------------![image](https://user-images.githubusercontent.com/17779829/123539314-7728a100-d77c-11eb-9d63-df193758c89d.png)--------------------------------------------
+![image](https://user-images.githubusercontent.com/17779829/123539314-7728a100-d77c-11eb-9d63-df193758c89d.png)
 
 -	The personalized real-time control and its current development is only applicable in controlling the façade according to occupants’ visual comfort preferences, not thermal comfort models. This limitation is only due to inability of existing simulation tools to localize thermal comfort models and indicators based on occupant’s position in a shared space while façade is changing over time.
 - TThe methodology is only applicable on adaptive façade typologies that allow user interactions and decentralization mechanisms like foldable responsive facades. So, adaptive facades with intrinsic controls or material-based actuators should be excluded when using the proposed control framework of this research.
@@ -28,7 +28,7 @@ With respect to the research methodology, since the workflow is genuinely a simu
 - Maintaining and operating non-conventional AFs require additional costs and energy that are not studied in this research and their final contribution to energy consumption is
 ignored.
 
---------------------------------![image](https://user-images.githubusercontent.com/17779829/137251295-9e35e86b-3300-4de4-ae65-23599db28839.png)---------------------------------
+![image](https://user-images.githubusercontent.com/17779829/137251295-9e35e86b-3300-4de4-ae65-23599db28839.png)
 
 # References
 
