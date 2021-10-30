@@ -11,7 +11,7 @@ The proposed control strategy facilitates an integrated algorithmic workflow by 
 
 (2) an offline simulation using Python programming language to program a personalized control.
 
----------------------------------![image](https://user-images.githubusercontent.com/17779829/123539302-637d3a80-d77c-11eb-8d6b-ef49eb098477.png)---------------------------------
+   ![image](https://user-images.githubusercontent.com/17779829/123539302-637d3a80-d77c-11eb-8d6b-ef49eb098477.png)
 
 # Limitations of the Current Concept
 With respect to the research methodology, since the workflow is genuinely a simulation-driven approach, there are assumptions that influence the results significantly:
