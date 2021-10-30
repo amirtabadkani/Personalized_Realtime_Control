@@ -28,7 +28,7 @@ With respect to the research methodology, since the workflow is genuinely a simu
 - Maintaining and operating non-conventional AFs require additional costs and energy that are not studied in this research and their final contribution to energy consumption is
 ignored.
 
---------------------------------![image](https://user-images.githubusercontent.com/17779829/137251295-9e35e86b-3300-4de4-ae65-23599db28839.png)----------------------------------
+--------------------------------![image](https://user-images.githubusercontent.com/17779829/137251295-9e35e86b-3300-4de4-ae65-23599db28839.png)---------------------------------
 
 # References
 
