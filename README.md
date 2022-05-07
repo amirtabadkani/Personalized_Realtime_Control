@@ -56,4 +56,6 @@ Integrated parametric design of adaptive facades for user’s visual comfort (Au
 https://www.sciencedirect.com/science/article/pii/S0926580518308240?via%3Dihub
 
 For more information, please contact:
+
 stabadkani@deakin.edu.au
+amir.tabadkani@stantec.com
