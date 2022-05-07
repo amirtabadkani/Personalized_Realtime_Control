@@ -32,10 +32,10 @@ ignored.
 
 # The Methodology IS PUBLISHED HERE:
 
-Simulation-based personalized real-time control of adaptive facades in shared office spaces
+Simulation-based personalized real-time control of adaptive facades in shared office spaces (Automation in Construction)
 https://www.sciencedirect.com/science/article/pii/S0926580522001194
 
-# References
+# Helpful References
 
 Analysis of the impact of automatic shading control scenarios on occupant’s comfort and energy load (Applied Energy)
 https://www.sciencedirect.com/science/article/pii/S0306261921003883?via%3Dihub
